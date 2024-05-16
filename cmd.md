@@ -11,3 +11,8 @@ cd ~/Git01/
 ```sh
 dir
 ```
+
+Удаление файла
+```sh
+Del <filename>
+```
