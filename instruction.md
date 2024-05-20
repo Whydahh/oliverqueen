@@ -49,3 +49,8 @@ git checkout master
 2. Лист
 
 Добавим новый текст
+
+## WEB ссылки
+Текст [www.ZayanaSangilovarules.com](http.example.com "всплывающая подсказка")
+
+
