@@ -29,6 +29,11 @@ _**полужирным**_.
 ## Ссылки
 
 ## Работа с таблицами
+| first header | second header |
+| --- | --- |
+| content cell | content cell  |
+| content cell | content cell  |
+
 
 ## Цитаты
 
